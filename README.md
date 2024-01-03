@@ -1,2 +1,5 @@
 # bbc_news_classification
- Classification of bbc news articles
+ Jupyter notebook: Classification of BBC news articles
+
+ Developing a classification model that will classify BBC Sports news articles. 
+ 
